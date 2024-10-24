@@ -1,0 +1,19 @@
+This repository covers the process I followed to set up Windows Subsystem for Linux (WSL 2) with GPU acceleration on Windows 11 Enterprise using an NVIDIA RTX 3050 GPU.
+It outlines steps for installing NVIDIA drivers, setting up CUDA in Ubuntu, and enabling GPU usage within WSL.
+
+Note: Despite following these steps, I encountered issues with GPU performance, particularly while running virtualized environments.
+The GPU acceleration didn’t function as expected, likely due to conflicts in how virtualized graphics were being handled in my setup.
+Further troubleshooting is needed for full GPU utilization in WSL under a virtualized environment.
+
+Here's the List of Practicls i have done using windows 11  Enterpris (Hyper VM)
+Verifying WSL 2 Installation  (one)
+Setting Up CUDA in WSL 2 (two)
+Enabling GPU Support in WSL 2 (three)
+Running GPU-Accelerated Applications (four)
+
+Experiment (Failed) 
+
+
+ 
+
+
